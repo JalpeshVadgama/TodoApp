@@ -1,0 +1,9 @@
+D:\TodoApp\Server\TodoApp\TodoApp\bin\Debug\netcoreapp1.1\TodoApp.deps.json
+D:\TodoApp\Server\TodoApp\TodoApp\bin\Debug\netcoreapp1.1\TodoApp.runtimeconfig.json
+D:\TodoApp\Server\TodoApp\TodoApp\bin\Debug\netcoreapp1.1\TodoApp.runtimeconfig.dev.json
+D:\TodoApp\Server\TodoApp\TodoApp\bin\Debug\netcoreapp1.1\TodoApp.dll
+D:\TodoApp\Server\TodoApp\TodoApp\obj\Debug\netcoreapp1.1\TodoApp.csprojResolveAssemblyReference.cache
+D:\TodoApp\Server\TodoApp\TodoApp\obj\Debug\netcoreapp1.1\TodoApp.AssemblyInfo.cs
+D:\TodoApp\Server\TodoApp\TodoApp\bin\Debug\netcoreapp1.1\TodoApp.pdb
+D:\TodoApp\Server\TodoApp\TodoApp\obj\Debug\netcoreapp1.1\TodoApp.dll
+D:\TodoApp\Server\TodoApp\TodoApp\obj\Debug\netcoreapp1.1\TodoApp.pdb
